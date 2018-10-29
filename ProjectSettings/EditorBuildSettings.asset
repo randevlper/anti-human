@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AntiHuman/Randall/_Scenes/S_Main.unity
+    guid: 2ffbc4a2fcdce414fa00d57d17599382
+  - enabled: 1
+    path: Assets/AntiHuman/Randall/_Scenes/S_Level_1.unity
+    guid: b9dea11cec1be034e96c21e547d022db
+  - enabled: 1
+    path: Assets/AntiHuman/Randall/_Scenes/S_Level_2.unity
+    guid: ca358f377d3b5f946b0ae12b68158781
+  - enabled: 1
+    path: Assets/AntiHuman/Randall/_Scenes/S_Level_3.unity
+    guid: eae03d5d670171042aa4ee35f7c08d37
+  - enabled: 0
+    path: Assets/AntiHuman/Randall/_Scenes/S_CharacterController.unity
+    guid: 99dc6b22f3a4fd6468bbacd40d9c5558
+  - enabled: 0
+    path: Assets/AntiHuman/Kim/_Scenes/KimScene.unity
+    guid: 4c78d3cb1a1f7784cad9e2392ad2b796
+  - enabled: 0
+    path: Assets/AntiHuman/Jacob/_Scenes/Lazorz.unity
+    guid: bdfc7dc6effcb254096e7a157a5eb067
+  m_configObjects: {}
